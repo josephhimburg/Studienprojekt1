@@ -1,9 +1,9 @@
 # Studienprojekt1
 
 ## Installation
-git clone https://github.com/josephhimburg/Studienprojekt1.git
+Code runterladen: git clone https://github.com/josephhimburg/Studienprojekt1.git
 
-1. CMD im Ordner Studienprojekt1 öffnen und fopkgende Befehle ausführen:
+1. CMD im Ordner Studienprojekt1 öffnen und folgende Befehle ausführen:
 
 2. python -m venv env
 
@@ -11,7 +11,7 @@ git clone https://github.com/josephhimburg/Studienprojekt1.git
 
 4. pip install -r requirements.txt
 
-5. Ordner mit den Bildern die analysiert werden sollen, in den Ordner StudienProjhekt1 ziehen und zu "test" umbenennen.
+5. Ordner mit den Bildern die analysiert werden sollen, in den Ordner Studienprojekt1 ziehen und zu "test" umbenennen.
 
 6. python analysis.py
 
